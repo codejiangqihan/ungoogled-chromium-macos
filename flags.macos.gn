@@ -12,3 +12,4 @@ is_official_build=true
 proprietary_codecs=true
 symbol_level=1
 use_sysroot=false
+chrome_pgo_phase=2
